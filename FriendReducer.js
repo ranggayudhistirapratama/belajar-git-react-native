@@ -4,7 +4,7 @@ import {ADD_FRIEND} from './types'
 const INITIAL_STATE = {
   current: [],
   possible: [
-    'Allie',
+    'Buaya',
     'Gator',
     'Lizzie',
     'Reptar',
